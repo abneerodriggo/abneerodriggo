@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abneerodriggo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos:
+## Projetos em Destaque:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abneerodriggo&repo=abneerodriggo.github.io&theme=tokyonight)](https://github.com/abneerodriggo/abneerodriggo.github.io)
 
 ## Contato:
